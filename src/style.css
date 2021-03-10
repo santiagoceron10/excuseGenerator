@@ -1,7 +1,7 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
 body {
-  background-color: aquamarine;
+  background-color: rgb(86, 134, 167);
 }
 h3 {
-  color: red;
+  color: rgba(255, 0, 0, 0.541);
 }
